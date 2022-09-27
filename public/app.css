@@ -13,9 +13,9 @@ header,img{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 375px;
+    margin-top: 125px;
     border: 5px solid #56DDF0;
-    margin-bottom: 375px;
+    margin-bottom: 125px;
 }
 .nav{
     text-decoration: none;
