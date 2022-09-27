@@ -11,12 +11,24 @@
     </div>
 </header>
 <body>
-<div class="vakkenrooster" id="vakkenRooster">
-    <img src="vakken.png" width="650" height="350">
-    <img src="rooster.png" width="650" height="350">
+<div class="vakkenrooster" id="vakkenRooster" >
+    <img src="vakken.png" width="auto" height="275">
+    <img src="rooster.png" width="auto" height="275">
 </div>
-<div class="infoText">
-    <p id="infoText">Lorem ipsum, dolor sit amet consectetur adipisicing elit. At itaque velit aperiam veniam voluptates voluptatum aliquid iusto id odio tenetur pariatur alias quae corrupti nam minus, perspiciatis numquam, ex hic nihil, officiis recusandae veritatis. Inventore labore, consequatur vero aliquam beatae maiores illo, fugiat neque molestias autem corporis! Harum quia, assumenda iusto laborum sint voluptatem beatae nulla qui, hic sequi nemo molestias soluta vero necessitatibus rerum officiis! Doloremque dignissimos quibusdam voluptatum nulla enim aliquid. Asperiores architecto expedita vitae provident accusantium nemo, natus hic, exercitationem nesciunt, recusandae libero praesentium officia modi cumque eius molestiae sint dolorum perferendis consectetur commodi nulla officiis soluta fugit. Fuga eum reprehenderit distinctio quisquam, eius quod minus perspiciatis voluptate sed ad excepturi laboriosam itaque porro ratione error, aut cumque? Eaque deleniti et nemo ullam quo blanditiis. Ipsum ipsa ex numquam deserunt corrupti laborum quisquam facere maiores. Ad nemo earum tempora tempore illo autem nesciunt! Temporibus ullam reprehenderit quas distinctio quam vel repellendus quos adipisci ut fuga, in possimus dolores alias quidem non facere maiores optio officia, animi laborum explicabo quasi! Nihil, nemo! Et repudiandae laudantium ducimus eos possimus suscipit veritatis voluptas nesciunt tempora sit maiores unde, dolores quos nostrum recusandae, nemo quis repellat facere. Maxime harum autem minima voluptatibus suscipit rem, sit, ab vero, iusto labore consequatur expedita quo perferendis voluptatem culpa rerum fugit vitae beatae blanditiis molestias assumenda? Consequuntur fugiat suscipit ad repudiandae unde quam nesciunt, eveniet assumenda! Amet non culpa voluptates enim tempora labore accusantium deleniti sint voluptatem veritatis, animi excepturi id, placeat velit quos dignissimos. Dignissimos quidem ipsa aut rem, recusandae at inventore iure, totam alias voluptatem iusto eveniet dolorem saepe placeat, unde accusamus rerum officia. Repudiandae ab culpa expedita soluta, illum et iusto, suscipit tempora aliquid vitae omnis optio mollitia aspernatur, consequatur sunt molestias odio nulla obcaecati! Repellendus, sit molestias? Ex fuga ipsam rerum?</p>
+<div class="infoText" id="infoText">
+    <h2>Info over de roosters</h2>
+    <p>De roosters worden aan het begin van elk blok gemaakt. Zo heb je dus elk blok een ander rooster, zodat je niet te lang vast zit aan het rooster wat je hebt. Je kunt je rooster terug vinden op het studentenportaal van Curio, waarop je in moet loggen met je studenten email en met je zelf gemaakte wachtwoord. De roosters worden zo opgesteld, dat je zo min mogelijk tussenuren hebt, waardoor je dus ook minder lang op school zit en meer vrije tijd hebt.</p>
+    <h3>Benodigdheden</h3>
+    <p>De dingen die je nodig hebt op deze opleiding zijn:</p>
+    <ul>
+        <li>Een laptop met 8gb werkgeheugen en een Intel i5 gen 10 of een Ryzen 5 3000 series</li>
+        <li>Licenties voor Taalblokken en Rekenen, te vinden op MBO-Webshop</li>
+        <li>Een multomap om je papieren in op te slaan</li>
+        <li>Een pen en potloden om aantekeningen te maken</li>
+        <li>Een webcam en een koptelefoon met microfoon voor eventuele Teams meetings</li>
+        <li>Een webhosting om je websites online te zetten</li>
+    </ul>
+    <p>Een lijst met al deze dingen is terug te vinden op MBO-webshop. Je logt daar in met je schoolaccount, zodat je een gepersonaliseerde leermiddelenlijst krijgt.</p>
 </div>
 </body>
 
