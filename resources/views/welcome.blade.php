@@ -8,6 +8,7 @@
     <div class="nav">
         <a href="#infoText"> Info over blok</a>
         <a href="#vakkenRooster"> Vakken/Rooster</a>
+        <a href="#smoelenboek"> Smoelenboekje</a>
     </div>
 </header>
 <body>
@@ -29,6 +30,33 @@
         <li>Een webhosting om je websites online te zetten</li>
     </ul>
     <p>Een lijst met al deze dingen is terug te vinden op MBO-webshop. Je logt daar in met je schoolaccount, zodat je een gepersonaliseerde leermiddelenlijst krijgt.</p>
+    <h3>Verloop van het blok en mogelijkheid tot versnellen</h3>
+    <p>Je begint per blok heel rustig. Je krijgt natuurlijk eerst een introductie van alle nieuwe dingen die je gaat leren, en daarna bouwt het 
+        langzaam op en word het steeds wat meer en moeilijker. Aan het einde van het blok is er een Bufferweek. In die Bufferweek
+        moet je 2 toesten maken, 1 voor Windows Development en een voor Web Development. In deze week gaan de docenten kijken of je er klaar 
+        voor bent om naar het volgende blok te gaan.<br></br>
+        Er is ook mogelijkheid tot versnellen van de opleiding. Dan doe je de opleiding in 3 jaar, in plaats van 4. Daarvoor moet je wel echt laten
+        zien dat je de stof goed beheerst. Je zal dan samen met je SLB'er overleggen of dit een goede optie is voor jou.
+    </p>
+</div>
+
+<div class="smoelenboek" id="smoelenboek">
+    <img src="foto1.jpeg" width="100" height="100">
+    <p>Elton<br></br>Web Docent</p>
+    <img src="foto2.jpeg" width="100" height="100">
+    <p>Ine<br></br>Web Docent</p>
+    <img src="foto3.jpeg" width="100" height="100">
+    <p>Bart<br></br>Win Docent</p>
+    <img src="foto4.jpeg" width="100" height="100">
+    <p>Vincent<br></br>Codelab Docent</p>
+    <img src="foto5.jpeg" width="100" height="100">
+    <p>Joep<br></br>Nederlands Docent</p>
+    <img src="foto6.jpeg" width="100" height="100">
+    <p>Wiro<br></br>Rekenen Docent</p>
+    <img src="foto7.jpeg" width="100" height="100">
+    <p>Fedde<br></br>Win Docent</p>
+    <img src="foto8.jpeg" width="100" height="100">
+    <p>Kazar<br></br>Engels Docent</p>
 </div>
 </body>
 

@@ -34,3 +34,8 @@ header,img{
     width: auto;
     height: auto;
 }
+.smoelenboek{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 125px;
+}
